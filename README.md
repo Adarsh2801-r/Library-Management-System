@@ -4,8 +4,8 @@ The library management system maintains all information about the library staff,
 a stand alone desktop application to store and automate the operations which would help the library staff to manage daily activity. 
 
 Technology used:
-Programming language – JAVA
-RDBMS - MySQL
-Development platform – NetBeans JAVA SE
-Other tools like LucidChart/dbdiagrams etc. for ER Modelling, database design etc.
+* Programming language – JAVA
+* RDBMS - MySQL
+* Development platform – NetBeans JAVA SE
+* Other tools like LucidChart/dbdiagrams etc. for ER Modelling, database design etc.
 
