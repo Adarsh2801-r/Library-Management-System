@@ -9,5 +9,5 @@ Technology used:
 * Development platform – NetBeans JAVA SE
 * Other tools like LucidChart/dbdiagrams etc. for ER Modelling, database design etc.
 
-This application is developed as part of the course CS F212 - Database Management System.
+This application is developed as part of the course project of CS F212 - Database Management System.
 
